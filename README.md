@@ -1,1 +1,0 @@
-# Stablediffusion_infinity_colab_con_modelo_ckpt_propio_por_Hamilton_hog
